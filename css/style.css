@@ -1,0 +1,11 @@
+body {
+  font: 2em system-ui;
+  text-align: center;
+}
+.dice {
+  border: 0.25em solid black;
+  border-radius: 0.25em;
+  max-width: 20rem;
+  display: block;
+  margin: auto;
+}
