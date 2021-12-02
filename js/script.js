@@ -82,7 +82,7 @@ eleRoll.addEventListener(`click`, rollTheDice)
 
 
 
-
+/* 
 
 
 const myCurrentAge = 18
@@ -93,3 +93,4 @@ if (myCurrentAge >= 18 && canadianCitizen === true) {
   console.log(`You can vote!`)
 }
 
+ */
